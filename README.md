@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
-<iframe src="https://gifer.com/embed/4zeM" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com"></a></p>
+<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/4zeM" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com"></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
